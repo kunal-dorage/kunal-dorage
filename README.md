@@ -3,9 +3,16 @@
 <h3 align="center">
 Junior Software Developer | Java | Spring Boot | React | Python | AI
 </h3>
-
 <h2>🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,react,js,html,css,mysql,git,github,docker,linux,aws,maven,postman,vscode&perline=8" />
+</p>
+<h2>🤖 AI-Assisted Development</h2>
+
+<p>
+I use AI tools and prompt engineering to accelerate software development,
+debugging, testing, documentation, learning, and project implementation.
+I focus on understanding, reviewing, testing, and improving AI-generated
+solutions rather than blindly relying on generated code.
 </p>
