@@ -30,3 +30,20 @@ solutions rather than blindly relying on generated code.
   <li>AI & Generative AI Fundamentals</li>
   <li>Prompt Engineering</li>
 </ul>
+<h2>🚀 Featured Projects</h2>
+
+### 🤖 AI Customer Support Ticket System
+AI-powered ticket management system using Java, Spring Boot,
+REST APIs, MySQL and AI integration.
+
+### 🏢 Property Maintenance Management System
+Role-based maintenance request management system using Java,
+JDBC, MySQL and web technologies.
+
+### 🏠 Property Rate Calculator
+Java and MySQL application for calculating property rental rates
+with validation and database integration.
+
+### 🏥 Hospital Management System
+Backend-oriented application for managing patients, doctors,
+appointments and billing.
