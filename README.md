@@ -16,3 +16,17 @@ debugging, testing, documentation, learning, and project implementation.
 I focus on understanding, reviewing, testing, and improving AI-generated
 solutions rather than blindly relying on generated code.
 </p>
+<h2>💻 Core Skills</h2>
+
+<ul>
+  <li>Java & Object-Oriented Programming</li>
+  <li>Spring Boot & REST APIs</li>
+  <li>Python</li>
+  <li>React & JavaScript</li>
+  <li>SQL & MySQL</li>
+  <li>Git & GitHub</li>
+  <li>Maven & Postman</li>
+  <li>Docker & Linux Fundamentals</li>
+  <li>AI & Generative AI Fundamentals</li>
+  <li>Prompt Engineering</li>
+</ul>
