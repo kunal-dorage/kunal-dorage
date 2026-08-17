@@ -47,3 +47,23 @@ with validation and database integration.
 ### 🏥 Hospital Management System
 Backend-oriented application for managing patients, doctors,
 appointments and billing.
+<h2>📚 Currently Learning</h2>
+
+- Advanced Java
+- Data Structures & Algorithms
+- Spring Boot
+- Spring Security
+- REST API Development
+- React
+- Python
+- Generative AI
+- Docker
+- AWS
+<h2>⚡ Development Approach</h2>
+
+<p>
+I focus on writing clean, maintainable and practical software.
+I use AI-assisted development to improve productivity while
+continuously strengthening my programming fundamentals,
+problem-solving ability and system understanding.
+</p>
