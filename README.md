@@ -3,7 +3,6 @@
 <h3 align="center">
 Junior Software Developer | Java | Spring Boot | React | Python | AI
 </h3>
-<h2>🛠️ Tech Stack</h2>
 
 <h2>🛠️ Tech Stack</h2>
 
