@@ -68,11 +68,11 @@ My core strength lies in turning <strong>ambiguous ideas into scalable systems</
 
 ### 🔗 Let’s Connect
 <p align="center">
-  <a href="https://atharvkulkarni.vercel.app" target="_blank">
+  <a href="https://.vercel.app" target="_blank">
     🌐 Portfolio
   </a>
   &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/atharv-kulkarni777/">
+  <a href="www.linkedin.com/in/kunal-dorage-b86490207">
     💼 LinkedIn
   </a>
 </p>
