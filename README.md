@@ -1,69 +1,82 @@
-<h1 align="center">Hi 👋, I'm Kunal Dorage</h1>
+<h1 align="center">
+  Hi 👋 I’m Kunal Dorage
+</h1>
 
 <h3 align="center">
-Junior Software Developer | Java | Spring Boot | React | Python | AI
+  Full-Stack Engineer | Product-Driven Builder | Systems Thinker
 </h3>
-<h2>🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,react,js,html,css,mysql,git,github,docker,linux,aws,maven,postman,vscode&perline=8" />
+  I build scalable, production-ready products — not just features.
 </p>
-<h2>🤖 AI-Assisted Development</h2>
 
-<p>
-I use AI tools and prompt engineering to accelerate software development,
-debugging, testing, documentation, learning, and project implementation.
-I focus on understanding, reviewing, testing, and improving AI-generated
-solutions rather than blindly relying on generated code.
+<p align="center">
+  📍 Pune, India · 🌍 Open to global & remote opportunities
 </p>
-<h2>💻 Core Skills</h2>
 
-<ul>
-  <li>Java & Object-Oriented Programming</li>
-  <li>Spring Boot & REST APIs</li>
-  <li>Python</li>
-  <li>React & JavaScript</li>
-  <li>SQL & MySQL</li>
-  <li>Git & GitHub</li>
-  <li>Maven & Postman</li>
-  <li>Docker & Linux Fundamentals</li>
-  <li>AI & Generative AI Fundamentals</li>
-  <li>Prompt Engineering</li>
-</ul>
-<h2>🚀 Featured Projects</h2>
+---
 
-### 🤖 AI Customer Support Ticket System
-AI-powered ticket management system using Java, Spring Boot,
-REST APIs, MySQL and AI integration.
+<p align="center">
+I’m a <strong>Full-Stack Software Engineer</strong> pursuing my B.Eng in Computer Engineering from Pune University, with <strong>2.5 years of hands-on experience</strong> building real-world products used by thousands of users.
+</p>
 
-### 🏢 Property Maintenance Management System
-Role-based maintenance request management system using Java,
-JDBC, MySQL and web technologies.
+<p align="center">
+I thrive in <strong>early-stage and fast-moving startup environments</strong> where ownership matters — from designing APIs and system architecture to shipping polished frontend and mobile experiences.
+</p>
 
-### 🏠 Property Rate Calculator
-Java and MySQL application for calculating property rental rates
-with validation and database integration.
+<p align="center">
+My core strength lies in turning <strong>ambiguous ideas into scalable systems</strong>, writing clean, maintainable code, and thinking deeply about performance, security, and long-term growth.
+</p>
 
-### 🏥 Hospital Management System
-Backend-oriented application for managing patients, doctors,
-appointments and billing.
-<h2>📚 Currently Learning</h2>
+---
 
-- Advanced Java
-- Data Structures & Algorithms
-- Spring Boot
-- Spring Security
-- REST API Development
-- React
-- Python
-- Generative AI
-- Docker
-- AWS
-<h2>⚡ Development Approach</h2>
+### 🚀 What I Bring to a Startup
 
-<p>
-I focus on writing clean, maintainable and practical software.
-I use AI-assisted development to improve productivity while
-continuously strengthening my programming fundamentals,
-problem-solving ability and system understanding.
+- 🧠 Strong product mindset — I think in **users, scale, and trade-offs**
+- ⚙️ End-to-end ownership — backend, frontend, mobile, infra
+- 🔐 Experience with **real-time systems, caching, authentication & security**
+- 📈 Built and scaled systems serving **thousands of active users**
+- 🤝 Comfortable working independently or leading small teams
+
+---
+
+### 🛠 Tech I Work With
+
+<p align='center'>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
+
+---
+
+### 🌱 Currently Exploring
+- AI integrations & intelligent systems
+- RAG pipelines and AIOps 
+- System design & production-grade patterns
+
+
+---
+
+### 🔗 Let’s Connect
+<p align="center">
+  <a href="https://atharvkulkarni.vercel.app" target="_blank">
+    🌐 Portfolio
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/atharv-kulkarni777/">
+    💼 LinkedIn
+  </a>
+</p>
+
+<p align="center">
+  <em>I’m always excited to collaborate on ambitious products and high-impact ideas.</em>
 </p>
