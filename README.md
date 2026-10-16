@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Kunal Dorage</h1>
 
-<h3 align="center">Java Full Stack Developer | Python | Data Science</h3>
+<h3 align="center">Java Full Stack Developer | Data Science</h3>
 
 <p align="center">
-  Software Development • Database Management • Data Analysis
+  I build web applications and work with data to solve problems.
 </p>
 
 <p align="center">
@@ -13,68 +13,52 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- Java Full Stack Developer
-- Mechanical Engineering graduate
-- Interested in Software Development, Data Science, and AI
-- Focused on problem-solving and practical projects
+- 🎓 Mechanical Engineering Graduate
+- ☕ Interested in Java Full Stack Development
+- 🐍 Working with Python and Data Science
+- 🗄️ Interested in databases and problem-solving
+- 🤖 Exploring AI and Machine Learning
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 **Programming:** Java, Python, SQL, C
 
-**Backend:** Spring Boot, JDBC, Servlets, JSP, REST APIs
+**Backend:** Spring Boot, JDBC, Servlet, JSP
 
-**Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap
+**Frontend:** HTML, CSS, JavaScript, React.js
 
-**Database:** MySQL, SQL Queries, Joins, CRUD Operations
+**Database:** MySQL
 
-**Data Science:** NumPy, Pandas, Matplotlib, Data Cleaning, EDA
+**Data Science:** NumPy, Pandas, Matplotlib, Data Analysis
 
 **Tools:** Git, GitHub, Eclipse, VS Code, Postman, Maven
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-**Property Rate Calculator**
-- Java, JDBC, MySQL
-- Property rent calculation and database integration
-
-**Property Maintenance System**
-- Java, JDBC, MySQL, Servlet, JSP
-- Maintenance requests and status tracking
-
-**Hospital Management System**
-- Java, MySQL, JDBC
-- Patient and doctor record management
-
-**House Price Prediction**
-- Python, Pandas, Scikit-learn
-- House price prediction using machine learning
+- **Property Rate Calculator** — Java, JDBC, MySQL
+- **Hospital Management System** — Java, MySQL
+- **Property Maintenance System** — Java, Servlet, JSP, MySQL
+- **House Price Prediction** — Python, Pandas, Machine Learning
 
 ---
 
-## 📊 GitHub Stats
+### 🔗 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal-dorage&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/kunal-dorage">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kunal-dorage-b86490207/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-dorage&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-- GitHub: [kunal-dorage](https://github.com/kunal-dorage)
-- LinkedIn: [Kunal Dorage](https://www.linkedin.com/in/kunal-dorage-b86490207/)
-
-<p align="center">
-  <i>Build. Learn. Improve.</i>
+  <i>Keep Learning | Keep Building | Keep Growing 🚀</i>
 </p>
